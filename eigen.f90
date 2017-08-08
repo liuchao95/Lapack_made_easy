@@ -12,7 +12,7 @@
 
 !!!Very importmant notification:
 ! eigen values output are not ordered in  procedure eigen_g_r/eigen_g_c 
-! eigen values output in Aescedent order in  procedure eigen_s_r/eigen_h_c
+! eigen values output in Ascending order in  procedure eigen_s_r/eigen_h_c
 
 module eigen_solver
   integer,parameter :: dp = kind(1.0d0) !double precision 
